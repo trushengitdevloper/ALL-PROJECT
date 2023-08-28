@@ -32,8 +32,12 @@ crafted visual representations that showcase the potential of concepts. From <br
 sleek user interfaces to stunning product presentations, my mokups breathe<br>
 life into visions, leaving clients and audiences in awe. 💭🎉<br>
 
+#
+
 <p>In this portfolio, you'll find a testament to my journey as a technological virtuoso and creative maestro. Each project represents a milestone in my quest for excellence, pushing boundaries and defying limitations. From programming languages to web design, graphic artistry to visual storytelling, I've left an indelible mark on the digital landscape. 🌌🎓</p>
 
 <p>So, step into my world, where innovation meets imagination, and witness the transformative power of my work. Together, we'll break boundaries and forge new paths in the ever-evolving realm of technology and creativity. 🌟🚀</p> <br>
 
+#
+ 
 # Visit my previous portfolio 💼 website 🌐 <br>https://main--solanki-trushen.netlify.app/
