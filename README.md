@@ -1,5 +1,5 @@
 <h1><p align="center">
-Breaking  Boundaries in the Digital 🌐 Realm <br> A Portfolio of Technological 👩‍💻 Mastery and Creative 🎨 Ingenuity
+Breaking  Boundaries in the Digital 🌐  <br> Realm A Portfolio of Technological 👩‍💻 Mastery and Creative 🎨 Ingenuity
 </p></h1>
 
 ## Programming Prowess: Java, Python, C, and C++ 🐍🔢🎶
