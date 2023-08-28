@@ -5,7 +5,7 @@ Breaking  Boundaries in the Digital 🌐 Realm <br> A Portfolio of Technological
 ## Programming Prowess: Java, Python, C, and C++ 🐍🔢🎶
 * Dive into the realm of programming, where I've conquered the intricacies of <br>
 Java, Python, C, and C++. With a keen eye for logic and a mind wired for <br>
-problem-solving, I've crafted software solutions that stand the test of time.
+problem-solving, I've crafted software solutions that stand the test of time.<br>
 From elegant algorithms to efficient code structures, my programming <br>
 prowess knows no bounds. 🚀💻
 
@@ -26,4 +26,14 @@ audiences. Each creation is a testament to my ability to blend artistry<br>
 and communication. 🎭🌟
 
 ## Meticulous Mokups: Transforming Ideas into Reality💡💻📱
-* <p>Witness the power of my meticulous mokups, where ideas take shape and dreams become tangible. With an unwavering attention to detail, I've crafted visual representations that showcase the potential of concepts. From sleek user interfaces to stunning product presentations, my mokups breathe life into visions, leaving clients and audiences in awe. 💭🎉</p>
+* Witness the power of my meticulous mokups, where ideas take shape and<br>
+dreams become tangible. With an unwavering attention to detail, I've <br>
+crafted visual representations that showcase the potential of concepts. From <br>
+sleek user interfaces to stunning product presentations, my mokups breathe<br>
+life into visions, leaving clients and audiences in awe. 💭🎉<br>
+
+<p>In this portfolio, you'll find a testament to my journey as a technological virtuoso and creative maestro. Each project represents a milestone in my quest for excellence, pushing boundaries and defying limitations. From programming languages to web design, graphic artistry to visual storytelling, I've left an indelible mark on the digital landscape. 🌌🎓</p>
+
+<p>So, step into my world, where innovation meets imagination, and witness the transformative power of my work. Together, we'll break boundaries and forge new paths in the ever-evolving realm of technology and creativity. 🌟🚀</p> <br>
+
+# Visit my previous portfolio 💼 website 🌐 <br>https://main--solanki-trushen.netlify.app/
